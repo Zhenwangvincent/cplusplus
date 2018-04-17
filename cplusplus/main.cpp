@@ -25,6 +25,5 @@ int main() {
     // display the name stored in object myPhone
     cout << "Name in object myPhone is: "
     << myPhone.getName() << endl;
-    return 0;
 }
 
